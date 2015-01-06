@@ -7,7 +7,7 @@ It's an experiment and should be treated as such. That said, I'm more than
 happy to accept comments on how the implementation might be improved.
 
 In my [TantrixSevenTilesPuzzleResolver](https://github.com/jorander/TantrixSevenTilesPuzzleResolver) I've used
-my implementation in the SevenTilesPuzzleResolver class.
+my implementation in the [PlacedTantrixTile class](https://github.com/jorander/TantrixSevenTilesPuzzleResolver/blob/master/src/test/scala/jorander/tantrixstpr/model/PlacedTantrixTileSpec.scala).
 
 Best Regards,
  
